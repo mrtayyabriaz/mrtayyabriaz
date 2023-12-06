@@ -49,7 +49,7 @@ size_weight=0.5&count_weight=0.5&hide=scss&langs_count=8hide_progress=true-->
 
 ## Projects
 <!-- Pins (start) -->
-[![WhatsFake---June-2022](https://github-readme-stats.vercel.app/api/pin/?username=mrtayyabriaz&repo=WhatsFake---June-2022&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Postcss-usecases](https://github-readme-stats.vercel.app/api/pin/?username=mrtayyabriaz&repo=Postcss-usecases&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Tayyabriaz_React_Projects](https://github-readme-stats.vercel.app/api/pin/?username=mrtayyabriaz&repo=Tayyabriaz_React_Projects&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![WhatsFake---June-2022](https://github-readme-stats.vercel.app/api/pin/?username=mrtayyabriaz&repo=WhatsFake---June-2022&show_owner=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Postcss-usecases](https://github-readme-stats.vercel.app/api/pin/?username=mrtayyabriaz&repo=Postcss-usecases&show_owner=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Tayyabriaz_React_Projects](https://github-readme-stats.vercel.app/api/pin/?username=mrtayyabriaz&repo=Tayyabriaz_React_Projects&show_owner=true&theme=github_dark )](https://github.com/anuraghazra/github-readme-stats)
 <!--pins (end) -->
