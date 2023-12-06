@@ -17,9 +17,11 @@
 
 <!-- Followers -->
 ## Follow Me:
-  <a href="https://twitter.com/mrtayyabriaz" target="blank"><img     src="https://img.shields.io/twitter/follow/mrtayyabriaz?logo=twitter&style=for-the-badge" alt="mrtayyabriaz" /></a>
-  
+
 [![Linkedin Profile](https://img.shields.io/badge/Linkedin-tayyabriaz-black?labelColor=0077b5&style=for-the-badge&logo=linkedin&color=eeeeee)](https://www.linkedin.com/in/tayyab-riaz-a6553a209/)
+
+
+[![Linkedin Profile](https://img.shields.io/badge/Twitter-tayyabriaz-black?labelColor=0077b5&style=for-the-badge&logo=x&color=eeeeee)](https://twitter.com/mrtayyabriaz)
 
 ## Proficient Languages and Tools:
 <p align="left">
