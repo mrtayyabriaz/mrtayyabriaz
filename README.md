@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tayyab Riaz</h1>
 <h3 align="center">A passionate Full-Stack Website Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtayyabriaz&label=Profile%20views&color=0e75b6&style=flat" alt="mrtayyabriaz" /> </p>
+<!-- Students-Result-Management-System--DBMS-Project -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mrtayyabriaz&label=Profile%20views&color=0e75b6&style=flat"       
+       alt="mrtayyabriaz" />
+</p>
 
 <!--twitter info-->
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrtayyabriaz" alt="mrtayyabriaz" /></a> </p>-->
@@ -14,7 +17,8 @@
 
 <!-- Followers -->
 ## Follow Me:
-  <a href="https://twitter.com/mrtayyabriaz" target="blank"><img     src="https://img.shields.io/twitter/follow/mrtayyabriaz?logo=twitter&style=for-the-badge" alt="mrtayyabriaz" /></a> 
+  <a href="https://twitter.com/mrtayyabriaz" target="blank"><img     src="https://img.shields.io/twitter/follow/mrtayyabriaz?logo=twitter&style=for-the-badge" alt="mrtayyabriaz" /></a>
+  
 [![Linkedin Profile](https://img.shields.io/badge/Linkedin-tayyabriaz-black?labelColor=0077b5&style=for-the-badge&logo=linkedin&color=eeeeee)](https://www.linkedin.com/in/tayyab-riaz-a6553a209/)
 
 ## Languages and Tools:
@@ -25,7 +29,10 @@
 <!-- most used languages 
 ==options==
 size_weight=0.5&count_weight=0.5&hide=scss&langs_count=8hide_progress=true-->
+<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtayyabriaz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mrtayyabriaz" /> 
+  <br><br><br><br><br><br><br>
+</p>
 
 
 ## Connect with me:
@@ -38,8 +45,11 @@ size_weight=0.5&count_weight=0.5&hide=scss&langs_count=8hide_progress=true-->
 [![Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtayyabriaz&hide=contribs,prs,issues&show_icons=true&theme=tokyonight)](https://github.com/mrtayyabriaz/github-readme-stats)
 
 <!--counts-->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrtayyabriaz&theme=tokyonight" alt="mrtayyabriaz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrtayyabriaz&theme=tokyonight" alt="mrtayyabriaz" /></p><br>
 
+## Projects
 <!-- Pins (start) -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrtayyabriaz&repo=Postcss-usecases&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![WhatsFake---June-2022](https://github-readme-stats.vercel.app/api/pin/?username=mrtayyabriaz&repo=WhatsFake---June-2022&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Postcss-usecases](https://github-readme-stats.vercel.app/api/pin/?username=mrtayyabriaz&repo=Postcss-usecases&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Tayyabriaz_React_Projects](https://github-readme-stats.vercel.app/api/pin/?username=mrtayyabriaz&repo=Tayyabriaz_React_Projects&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--pins (end) -->
