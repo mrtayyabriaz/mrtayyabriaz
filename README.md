@@ -57,13 +57,13 @@ size_weight=0.5&count_weight=0.5&hide=scss&langs_count=8&hide_progress=true-->
 </p>  
   
 <!--stats--  -options-   &hide=stars,commits,prs,issues,contribs  &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage-->
-[![Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtayyabriaz&hide=contribs,prs,issues&show_icons=true&theme=tokyonight)](https://github.com/mrtayyabriaz)
+[![Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtayyabriaz&hide=contribs,prs,issues&show_icons=true&card_width=495&theme=tokyonight)](https://github.com/mrtayyabriaz)
 
 <!--counts-->
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrtayyabriaz&theme=tokyonight" alt="mrtayyabriaz" /></p><br> 
 
 ## Projects
-Here is a list of noteworthy projects I have undertaken:
+Here is a list of noteworthy projects I have undertaken(Public):
 <!-- Pins (start) -->
 [![WhatsFake---June-2022](https://github-readme-stats.vercel.app/api/pin/?username=mrtayyabriaz&repo=WhatsFake---June-2022&show_owner=true&theme=github_dark)](https://github.com/mrtayyabriaz/WhatsFake---June-2022)
 [![Postcss-usecases](https://github-readme-stats.vercel.app/api/pin/?username=mrtayyabriaz&repo=Postcss-usecases&show_owner=true&theme=github_dark)](https://github.com/mrtayyabriaz/Postcss-usecases)
