@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tayyab Riaz</h1>
 <h3 align="center">A passionate Full-Stack Website Developer</h3>
-<!-- Students-Result-Management-System--DBMS-Project -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrtayyabriaz&label=Profile%20views&color=0e75b6&style=flat"       
        alt="mrtayyabriaz" />
@@ -41,22 +41,28 @@ size_weight=0.5&count_weight=0.5&hide=scss&langs_count=8hide_progress=true-->
 </p>
 
 
+<!-- wakaTime (start) -->
+[![Tayyab's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mrtayyabriaz)](https://github.com/mrtayyabriaz)
+<!-- wakaTime (end) -->
+
+
 ## Feel free to connect with me:
 <p align="left">
-<a href="https://twitter.com/mrtayyabriaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrtayyabriaz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tayyab-riaz-a6553a209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tayyab-riaz-a6553a209" height="30" width="40" /></a>
-<br><br><br><br> </p>  
+  <a href="https://twitter.com/mrtayyabriaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrtayyabriaz" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/tayyab-riaz-a6553a209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tayyab-riaz-a6553a209" height="30" width="40" /></a>
+<br><br><br>
+</p>  
   
 <!--stats--  -options-   &hide=stars,commits,prs,issues,contribs  &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage-->
-[![Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtayyabriaz&hide=contribs,prs,issues&show_icons=true&theme=tokyonight)](https://github.com/mrtayyabriaz/github-readme-stats)
+[![Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtayyabriaz&hide=contribs,prs,issues&show_icons=true&theme=tokyonight)](https://github.com/mrtayyabriaz)
 
 <!--counts-->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrtayyabriaz&theme=tokyonight" alt="mrtayyabriaz" /></p><br> -->
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrtayyabriaz&theme=tokyonight" alt="mrtayyabriaz" /></p><br> 
 
 ## Projects
 Here is a list of noteworthy projects I have undertaken:
 <!-- Pins (start) -->
-[![WhatsFake---June-2022](https://github-readme-stats.vercel.app/api/pin/?username=mrtayyabriaz&repo=WhatsFake---June-2022&show_owner=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Postcss-usecases](https://github-readme-stats.vercel.app/api/pin/?username=mrtayyabriaz&repo=Postcss-usecases&show_owner=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Tayyabriaz_React_Projects](https://github-readme-stats.vercel.app/api/pin/?username=mrtayyabriaz&repo=Tayyabriaz_React_Projects&show_owner=true&theme=github_dark )](https://github.com/anuraghazra/github-readme-stats)
+[![WhatsFake---June-2022](https://github-readme-stats.vercel.app/api/pin/?username=mrtayyabriaz&repo=WhatsFake---June-2022&show_owner=true&theme=github_dark)](https://github.com/mrtayyabriaz/WhatsFake---June-2022)
+[![Postcss-usecases](https://github-readme-stats.vercel.app/api/pin/?username=mrtayyabriaz&repo=Postcss-usecases&show_owner=true&theme=github_dark)](https://github.com/mrtayyabriaz/Postcss-usecases)
+[![Tayyabriaz_React_Projects](https://github-readme-stats.vercel.app/api/pin/?username=mrtayyabriaz&repo=Tayyabriaz_React_Projects&show_owner=true&theme=github_dark )](https://github.com/mrtayyabriaz/Tayyabriaz_React_Projects)
 <!--pins (end) -->
