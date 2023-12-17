@@ -43,7 +43,7 @@ size_weight=0.5&count_weight=0.5&hide=scss&langs_count=8&hide_progress=true-->
 
 <!-- wakaTime (start) ==options== &layout=compact -->
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mrtayyabriaz&theme=tokyonight&layout=compact&custom_title=WakaTime%20Stats%20(Dec%202023%20-%20Present)" alt="mrtayyabriaz" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mrtayyabriaz&theme=tokyonight&layout=compact&disable_animations=true&custom_title=WakaTime%20Stats%20(Dec%202023%20-%20Present)" alt="mrtayyabriaz" /> 
   <br><br><br><br><br><br><br><br><br>
 </p>
 <!-- wakaTime (end) -->
@@ -60,7 +60,7 @@ size_weight=0.5&count_weight=0.5&hide=scss&langs_count=8&hide_progress=true-->
 [![Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtayyabriaz&hide=contribs&show_icons=true&card_width=495&theme=tokyonight)](https://github.com/mrtayyabriaz)
 
 <!--counts-->
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrtayyabriaz&theme=tokyonight" alt="mrtayyabriaz" /></p><br> 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrtayyabriaz&theme=tokyonight&disable_animations=true" alt="mrtayyabriaz" /></p><br> 
 
 ## Projects
 Here is a list of noteworthy projects I have undertaken(Public):
