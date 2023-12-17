@@ -44,7 +44,7 @@ size_weight=0.5&count_weight=0.5&hide=scss&langs_count=8&hide_progress=true-->
 <!-- wakaTime (start) ==options== &layout=compact -->
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mrtayyabriaz&theme=tokyonight&layout=compact&custom_title=WakaTime%20Stats%20(Dec%202023%20-%20Present)" alt="mrtayyabriaz" /> 
-  <br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br>
 </p>
 <!-- wakaTime (end) -->
 
@@ -57,7 +57,7 @@ size_weight=0.5&count_weight=0.5&hide=scss&langs_count=8&hide_progress=true-->
 </p>  
   
 <!--stats--  -options-   &hide=stars,commits,prs,issues,contribs  &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage-->
-[![Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtayyabriaz&hide=contribs,prs,issues&show_icons=true&card_width=495&theme=tokyonight)](https://github.com/mrtayyabriaz)
+[![Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtayyabriaz&hide=contribs&show_icons=true&card_width=495&theme=tokyonight)](https://github.com/mrtayyabriaz)
 
 <!--counts-->
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrtayyabriaz&theme=tokyonight" alt="mrtayyabriaz" /></p><br> 
