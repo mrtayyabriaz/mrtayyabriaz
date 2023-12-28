@@ -63,11 +63,11 @@ size_weight=0.5&count_weight=0.5&hide=scss&langs_count=8&hide_progress=true-->
 
 <!--counts-->
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrtayyabriaz&theme=tokyonight&disable_animations=true" alt="mrtayyabriaz" /></p><br> 
-
+<!-- 
 ## Projects
-Here is a list of noteworthy projects I have undertaken(Public):
+Here is a list of noteworthy projects I have undertaken(Public): -->
 <!-- Pins (start) -->
-[![WhatsFake---June-2022](https://github-readme-stats.vercel.app/api/pin/?username=mrtayyabriaz&repo=WhatsFake---June-2022&show_owner=true&theme=github_dark)](https://github.com/mrtayyabriaz/WhatsFake---June-2022)
+<!-- [![WhatsFake---June-2022](https://github-readme-stats.vercel.app/api/pin/?username=mrtayyabriaz&repo=WhatsFake---June-2022&show_owner=true&theme=github_dark)](https://github.com/mrtayyabriaz/WhatsFake---June-2022)
 [![Tayyabriaz_React_Projects](https://github-readme-stats.vercel.app/api/pin/?username=mrtayyabriaz&repo=Tayyabriaz_React_Projects&show_owner=true&theme=github_dark )](https://github.com/mrtayyabriaz/Tayyabriaz_React_Projects)
-[![Postcss-usecases](https://github-readme-stats.vercel.app/api/pin/?username=mrtayyabriaz&repo=Postcss-usecases&show_owner=true&theme=github_dark)](https://github.com/mrtayyabriaz/Postcss-usecases)
+[![Postcss-usecases](https://github-readme-stats.vercel.app/api/pin/?username=mrtayyabriaz&repo=Postcss-usecases&show_owner=true&theme=github_dark)](https://github.com/mrtayyabriaz/Postcss-usecases) -->
 <!--pins (end) -->
