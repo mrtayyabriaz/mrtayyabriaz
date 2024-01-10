@@ -61,8 +61,9 @@ size_weight=0.5&count_weight=0.5&hide=scss&langs_count=8&hide_progress=true-->
 <!--stats--  -options-   &hide=stars,commits,prs,issues,contribs  &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage-->
 [![Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtayyabriaz&hide=contribs&show_icons=true&card_width=495&theme=tokyonight)](https://github.com/mrtayyabriaz)
 
-<!--counts-->
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrtayyabriaz&theme=tokyonight&disable_animations=true" alt="mrtayyabriaz" /></p><br> 
+<!--counts
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrtayyabriaz&theme=tokyonight&disable_animations=true" alt="mrtayyabriaz" /></p><br>
+-->
 <!-- 
 ## Projects
 Here is a list of noteworthy projects I have undertaken(Public): -->
