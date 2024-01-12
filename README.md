@@ -17,14 +17,6 @@
 
 - 📫 How to reach me **mrtayyabriaz@gmail.com**
 
-<!-- Followers -->
-## Follow Me:
-
-[![Linkedin Profile](https://img.shields.io/badge/Linkedin-tayyabriaz-black?labelColor=0077b5&style=for-the-badge&logo=linkedin&color=eeeeee)](https://www.linkedin.com/in/tayyab-riaz-a6553a209/)
-
-
-[![Twitter Profile](https://img.shields.io/badge/Twitter-tayyabriaz-black?labelColor=0077b5&style=for-the-badge&logo=x&color=eeeeee)](https://twitter.com/mrtayyabriaz)
-
 ## Proficient Languages and Tools:
 <p align="left">
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
@@ -46,7 +38,7 @@ size_weight=0.5&count_weight=0.5&hide=scss&langs_count=8&hide_progress=true-->
 <!-- wakaTime (start) ==options== &layout=compact -->
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mrtayyabriaz&theme=tokyonight&layout=compact&disable_animations=true&custom_title=WakaTime%20Stats%20(Dec%202023%20-%20Present)" alt="mrtayyabriaz" /> 
-  <br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br><br>
 </p>
 <!-- wakaTime (end) -->
 
@@ -58,6 +50,14 @@ size_weight=0.5&count_weight=0.5&hide=scss&langs_count=8&hide_progress=true-->
 <br><br><br>
 </p>  
   
+<!-- Followers -->
+## Follow Me:
+
+[![Linkedin Profile](https://img.shields.io/badge/Linkedin-tayyabriaz-black?labelColor=0077b5&style=for-the-badge&logo=linkedin&color=eeeeee)](https://www.linkedin.com/in/tayyab-riaz-a6553a209/)
+
+[![Twitter Profile](https://img.shields.io/badge/Twitter-tayyabriaz-black?labelColor=0077b5&style=for-the-badge&logo=x&color=eeeeee)](https://twitter.com/mrtayyabriaz)
+
+
 <!--stats--  -options-   &hide=stars,commits,prs,issues,contribs  &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage-->
 [![Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtayyabriaz&hide=contribs&show_icons=true&card_width=495&theme=tokyonight)](https://github.com/mrtayyabriaz)
 
