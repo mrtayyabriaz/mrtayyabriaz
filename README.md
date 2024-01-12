@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tayyab Riaz</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/mrtayyabriaz/mrtayyabriaz/main/wave.gif" width="30px">, I'm Tayyab Riaz</h1>
 <h3 align="center">A passionate Full-Stack Website Developer</h3>
 
 <p align="center">
