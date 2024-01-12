@@ -44,19 +44,19 @@ size_weight=0.5&count_weight=0.5&hide=scss&langs_count=8&hide_progress=true-->
 
 
 ## Feel free to connect with me:
-<p align="left">
+<!-- <p align="left">
   <a href="https://twitter.com/mrtayyabriaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrtayyabriaz" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/tayyab-riaz-a6553a209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tayyab-riaz-a6553a209" height="30" width="40" /></a>
 <br><br><br>
-</p>  
+</p> --> 
   
 <!-- Followers -->
-## Follow Me:
+<!-- ## Follow Me: -->
 
 [![Linkedin Profile](https://img.shields.io/badge/Linkedin-tayyabriaz-black?labelColor=0077b5&style=for-the-badge&logo=linkedin&color=eeeeee)](https://www.linkedin.com/in/tayyab-riaz-a6553a209/)
 
 [![Twitter Profile](https://img.shields.io/badge/Twitter-tayyabriaz-black?labelColor=0077b5&style=for-the-badge&logo=x&color=eeeeee)](https://twitter.com/mrtayyabriaz)
-
+<br><br>
 
 <!--stats--  -options-   &hide=stars,commits,prs,issues,contribs  &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage-->
 [![Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtayyabriaz&show_icons=true&card_width=495&theme=tokyonight&show=prs_merged,prs_merged_percentage)](https://github.com/mrtayyabriaz)
