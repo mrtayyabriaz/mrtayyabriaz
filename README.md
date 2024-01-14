@@ -37,7 +37,9 @@ size_weight=0.5&count_weight=0.5&hide=scss&langs_count=8&hide_progress=true-->
 
 <!-- wakaTime (start) ==options== &layout=compact -->
 <p>
+  <a href='https://wakatime.com/@mrtayyabriaz' target='_blank'>
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mrtayyabriaz&theme=tokyonight&layout=compact&disable_animations=true&custom_title=WakaTime%20Stats%20(Dec%202023%20-%20Now)" alt="mrtayyabriaz" /> 
+</a>
   <br><br><br><br><br><br><br><br><br><br><br><br><br>
 </p>
 <!-- wakaTime (end) -->
