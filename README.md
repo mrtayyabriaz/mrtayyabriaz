@@ -31,7 +31,7 @@
 size_weight=0.5&count_weight=0.5&hide=scss&langs_count=8&hide_progress=true-->
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtayyabriaz&custom_title=Most%20Used%20Languages%20(Public_Repos)&card_width=493&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mrtayyabriaz" /> 
-  <br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br>
 </p>
 
 
