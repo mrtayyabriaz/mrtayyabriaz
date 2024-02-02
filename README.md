@@ -1,7 +1,9 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/mrtayyabriaz/mrtayyabriaz/main/wave.gif" width="30px">, I'm Tayyab Riaz</h1>
-<h3 align="center">A passionate Full-Stack Website Developer</h3>
+<!-- <h1 align="center"><img src="https://raw.githubusercontent.com/mrtayyabriaz/mrtayyabriaz/main/wave.gif" width="30px">, I'm Tayyab Riaz</h1>-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=200&pause=0&center=true&vCenter=true&repeat=false&random=false&height=35&width=402&lines=I'm+Tayyab+Riaz)](https://git.io/typing-svg)
+<!-- <h3 align="center">A passionate Full-Stack Website Developer</h3>-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4500&pause=5000&vCenter=true&repeat=false&random=false&width=440&lines=A+passionate+Full-Stack+Website+Developer)](https://git.io/typing-svg)
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=mrtayyabriaz&label=Profile%20views&color=0e75b6&style=flat"       
        alt="mrtayyabriaz" />
 </p>
