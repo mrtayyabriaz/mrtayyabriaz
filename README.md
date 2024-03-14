@@ -33,7 +33,7 @@
 size_weight=0.5&count_weight=0.5&hide=scss&langs_count=8&hide_progress=true-->
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtayyabriaz&custom_title=Most%20Used%20Languages%20(Public_Repos)&card_width=493&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mrtayyabriaz" /> 
-  <br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br>
 </p>
 
 
@@ -42,7 +42,7 @@ size_weight=0.5&count_weight=0.5&hide=scss&langs_count=8&hide_progress=true-->
   <a href='https://wakatime.com/@mrtayyabriaz' target='_blank'>
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mrtayyabriaz&theme=tokyonight&layout=compact&disable_animations=true&custom_title=WakaTime%20-%20Active%20Code%20Time%20(Dec%202023%20-%20Now)" alt="mrtayyabriaz" /> 
 </a>
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </p>
 <!-- wakaTime (end) -->
 
