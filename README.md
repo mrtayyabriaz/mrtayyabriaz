@@ -1,6 +1,7 @@
 <!-- <h1 align="center"><img src="https://raw.githubusercontent.com/mrtayyabriaz/mrtayyabriaz/main/wave.gif" width="30px">, I'm Tayyab Riaz</h1>-->
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=200&pause=0&center=true&vCenter=true&repeat=false&random=false&height=35&width=402&lines=I'm+Tayyab+Riaz)](https://git.io/typing-svg) -->
 <!-- <h3 align="center">A passionate Full-Stack Website Developer</h3>-->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4500&pause=5000&vCenter=true&repeat=false&random=false&width=440&lines=A+passionate+Full-Stack+Website+Developer)](https://git.io/typing-svg)
 
 <p align="left">
@@ -9,8 +10,9 @@
 </p>
 
 # 💫 About me:
+
 <!--PR info-->
-<!--<p align="left"> 
+<!--<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrtayyabriaz" alt="mrtayyabriaz" />    </a>
 </p>-->
 
@@ -18,15 +20,15 @@
 Fullstack projects
 
 🌱 **I’m currently learning:** <br>
-  Best Practices
+Best Practices
 
- 📫 **How to reach me:** <br>
-  mrtayyabriaz@gmail.com
+📫 **How to reach me:** <br>
+mrtayyabriaz@gmail.com
 
- 💬 **Ask me about:** <br>
+💬 **Ask me about:** <br>
 JavaScript, Reactjs, Nextjs, Node.js, and any general software development questions.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32>  Proficient Languages and Tools:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> Proficient Languages and Tools:
 
 <!--![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -38,7 +40,7 @@ JavaScript, Reactjs, Nextjs, Node.js, and any general software development quest
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -57,6 +59,7 @@ JavaScript, Reactjs, Nextjs, Node.js, and any general software development quest
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![J Query](https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![sass](https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -81,36 +84,47 @@ JavaScript, Reactjs, Nextjs, Node.js, and any general software development quest
 
 <br>
 
-# 💻 Code 
+# 💻 Code
 
-<!-- most used languages 
-==options== 
+<!-- most used languages
+==options==
 size_weight=0.5&count_weight=0.5&hide=scss&langs_count=8&hide_progress=true-->
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtayyabriaz&custom_title=Most%20Used%20Languages%20(Public_Repos)&card_width=493&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mrtayyabriaz" /> 
-  <br><br><br><br><br><br><br><br>
-</p>
-
 
 [![wakatime](https://wakatime.com/badge/user/018c3ef1-16bc-480a-b7cc-f7c653afa68c.svg)](https://wakatime.com/@018c3ef1-16bc-480a-b7cc-f7c653afa68c)
+<br>
+
+<p>
+<img align="left" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=mrtayyabriaz&custom_title=Most%20Used%20Languages%20(Public_Repos)&card_width=493&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mrtayyabriaz" />
+  <br><br><br><br><br><br><br><br>
+</p>
 
 <!-- wakaTime (start) ==options== &layout=compact -->
 <p>
   <a href='https://wakatime.com/@mrtayyabriaz' target='_blank'>
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mrtayyabriaz&theme=tokyonight&layout=compact&disable_animations=true&custom_title=WakaTime%20-%20Active%20Code%20Time%20(Dec%202023%20-%20Now)" alt="mrtayyabriaz" /> 
+<img align="left" src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=@mrtayyabriaz&theme=tokyonight&layout=compact&disable_animations=true&custom_title=WakaTime%20-%20Active%20Code%20Time%20(Dec%202023%20-%20Now)" alt="mrtayyabriaz" /> 
 </a>
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </p>
+
+<!--
+alternates to wakatime if this doesn't work:(host wesbsite is down)
+[![WakaTime Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=mrtayyabriaz)](https://wakatime.com/@mrtayyabriaz)
+
+[![WakaTime Stats Compact](https://github-readme-stats-fast.vercel.app/api/wakatime?username=mrtayyabriaz&layout=compact)](https://wakatime.com/@mrtayyabriaz)
+
+[![WakaTime Stats (Cloudflare)](https://github-readme-stats.zcy.dev/api/wakatime?username=mrtayyabriaz)](https://wakatime.com/@mrtayyabriaz)
+ -->
+
 <!-- wakaTime (end) -->
 
-
 ## Feel free to connect with me:
+
 <!-- <p align="left">
   <a href="https://twitter.com/mrtayyabriaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrtayyabriaz" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/tayyab-riaz-a6553a209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tayyab-riaz-a6553a209" height="30" width="40" /></a>
 <br><br><br>
-</p> --> 
-  
+</p> -->
+
 <!-- Followers -->
 <!-- ## Follow Me: -->
 
@@ -125,7 +139,7 @@ size_weight=0.5&count_weight=0.5&hide=scss&langs_count=8&hide_progress=true-->
 <!--counts
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrtayyabriaz&theme=tokyonight&disable_animations=true" alt="mrtayyabriaz" /></p><br>
 -->
-<!-- 
+<!--
 ## Projects
 Here is a list of noteworthy projects I have undertaken(Public): -->
 <!-- Pins (start) -->
